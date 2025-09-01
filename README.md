@@ -20,6 +20,29 @@ O projeto foi desenvolvido com foco em design moderno, responsabilidade e perfor
 * **Tailwind CSS:** Framework de CSS para design rápido e responsivo.
 * **JavaScript:** Para interatividade, como a funcionalidade de modo claro/escuro.
 
+Contato para Recrutadores
+Estou em busca de oportunidades como desenvolvedora fullstack iniciante e também aceito trabalhos como freelancer. Fique à vontade para entrar em contato comigo para discutir vagas ou colaborações.
+
+E-mail: tatianen25@gmail.com
+
+WhatsApp: +55 11 910526709
+
+📜 Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
+
+
+Estou em busca de oportunidades como desenvolvedora fullstack iniciante e também aceito trabalhos como freelancer. Fique à vontade para entrar em contato comigo para discutir vagas ou colaborações.
+
+E-mail: tatianen25@gmail.com
+
+WhatsApp: +55 11 910526709
+
+📜 Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
+
+
+
+
 ---
 
 ### 🛠️ Como Executar o Projeto Localmente
